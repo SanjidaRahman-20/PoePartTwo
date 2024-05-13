@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\bin\Debug\net8.0\RozaPoePartTwo.exe
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\bin\Debug\net8.0\RozaPoePartTwo.deps.json
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\bin\Debug\net8.0\RozaPoePartTwo.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\bin\Debug\net8.0\RozaPoePartTwo.dll
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\bin\Debug\net8.0\RozaPoePartTwo.pdb
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\obj\Debug\net8.0\RozaPoePartTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\obj\Debug\net8.0\RozaPoePartTwo.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\obj\Debug\net8.0\RozaPoePartTwo.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\obj\Debug\net8.0\RozaPoePartTwo.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\obj\Debug\net8.0\RozaPoePartTwo.dll
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\obj\Debug\net8.0\refint\RozaPoePartTwo.dll
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\obj\Debug\net8.0\RozaPoePartTwo.pdb
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\obj\Debug\net8.0\RozaPoePartTwo.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\RozaPoePartTwo\RozaPoePartTwo\obj\Debug\net8.0\ref\RozaPoePartTwo.dll
